@@ -1,0 +1,122 @@
+Skip to main content
+Google Classroom
+Classroom
+SQLabs - Leumi Bank - NodeJS
+Home
+Calendar
+Enrolled
+To-do
+S
+SQLabs - Leumi Bank - NodeJS
+Archived classes
+Settings
+Stream
+Classwork
+People
+SQLabs - Leumi Bank - NodeJS
+SQLabs - Leumi Bank - NodeJS
+Upcoming
+Woohoo, no work due soon!
+
+Announce something to your class
+
+Announcement: "‫קבצים משיעור 2‬‎"
+Tomer Sagi
+Created 1:17 PM1:17 PM (Edited 1:49 PM)
+קבצים משיעור 2
+
+chatServer.js
+Javascript
+
+client.js
+Javascript
+
+styles.css
+Style Sheet
+
+Add class comment…
+
+
+Announcement: "‫לינק לגיט שלי עם הקוד מהשיעור‬‎"
+Tomer Sagi
+Created 11:22 AM11:22 AM
+לינק לגיט שלי עם הקוד מהשיעור
+
+GitHub - tomer79sagi/sqlabs_leumi_bank_nodejs_jul24
+https://github.com/tomer79sagi/sqlabs_leumi_bank_nodejs_jul24/tree/master
+
+Add class comment…
+
+
+Announcement: "‫לינק להתחברות לשיעור‬‎"
+Tomer Sagi
+Created 10:43 AM10:43 AM
+לינק להתחברות לשיעור
+
+Class video meeting
+https://meet.google.com/fmk-aswj-jxk?authuser=0&hs=179
+
+Add class comment…
+
+
+Announcement: "‫מצגת שיעור 1‬‎"
+Tomer Sagi
+Created 10:40 AM10:40 AM
+מצגת שיעור 1
+
+SQLabs - Bank Leumi - NodeJS - Lesson 1 - 8.7.24.pdf
+PDF
+
+Add class comment…
+
+
+Announcement: "‫קבצים עבור fileServer‬‎"
+Tomer Sagi
+Created Jul 8Jul 8
+קבצים עבור 
+fileServer
+
+index.html
+HTML
+
+styles.css
+Style Sheet
+
+Add class comment…
+
+Stream
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+#chat {
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#message {
+    width: calc(100% - 60px);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
