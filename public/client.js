@@ -2,7 +2,7 @@ let ws;
 
 function    connectWebSockect() {
     //1. Create a instanse
-    ws = new WebSocket('ws:/localhost:3006')
+    ws = new WebSocket('wss://luba-nodejs-prod.onrender.com')
 };
 
 connectWebSockect();
